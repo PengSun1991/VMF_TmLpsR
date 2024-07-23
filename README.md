@@ -3,9 +3,9 @@
 # This model is an empirical Tm lapse rate model for improving the Tm interpolation accuracy of Compact VMF1 Product
 # Compact VMF1 Product Introductions:
 # https://vmf.geo.tuwien.ac.at/
-# % Forecast product:
+% Forecast product:
 %   http://vmf.geo.tuwien.ac.at/trop_products/GRID/2.5x2/VMF1/STD_FC
-% % Operational product:
+% Operational product:
 %   http://vmf.geo.tuwien.ac.at/trop_products/GRID/2.5x2/VMF1/STD_OP
 %
 
